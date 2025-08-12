@@ -1,3 +1,5 @@
+#-----------OPTIMAl SOLUTION-----------------------
+
 class Solution {
     public int removeDuplicates(int[] nums) {
         int i=0;
@@ -10,3 +12,7 @@ class Solution {
         return i+1;
     }
 }
+#----time complexity:O(N)----space complexity:O(1)---------
+
+#-------------Brute force-----------------
+
